@@ -238,8 +238,8 @@ The dashboard provides actionable insights that support data-driven decision-mak
 
 ---
 
-**Task 1 datasets collection
-**
+**Task 1 datasets collection**
+
 https://github.com/varshini-smile/FUTURE_DS_01/tree/main/Task1_Business_Sales_Analytics
 
 
