@@ -1,4 +1,4 @@
-##FUTURE_DS_01##
+#FUTURE_DS_01#
 
 Analyze business sales data to identify revenue trends, top-selling products, high-value categories, and regional performance.
 
@@ -12,7 +12,7 @@ This project analyzes online retail sales data using Excel and Power BI to ident
 
 ---
 
-****Data Cleaning Process (Excel)
+**Data Cleaning Process (Excel)**
 
 The dataset was cleaned before analysis using the following steps:
 
@@ -48,7 +48,7 @@ Microsoft Power BI (Dashboard Development & Visualization)
 
 ---
 
-****Key Performance Indicators (KPIs)
+**Key Performance Indicators (KPIs)**
 
 Total Sales – Total revenue generated from all transactions.
 
@@ -60,7 +60,7 @@ Total Customers – Total number of unique customers.
 
 ---
 
-****Dashboard Visuals
+**Dashboard Visuals**
 
 KPI Cards
 
@@ -180,7 +180,7 @@ These actions can help improve revenue growth and business performance.
 
 ---
 
-****Key Insights
+**Key Insights**
 
 The United Kingdom generates the highest revenue among all countries.
 
