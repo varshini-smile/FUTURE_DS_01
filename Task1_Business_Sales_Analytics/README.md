@@ -1,5 +1,5 @@
-**Business Sales Performance Analytics Dashboard
-**
+**Business Sales Performance Analytics Dashboard**
+
 **Project Overview**
 
 This project analyzes online retail sales data using Excel and Power BI to identify revenue trends, top-performing products, customer activity, and regional sales performance. The objective is to transform raw sales data into meaningful business insights that support data-driven decision-making.
