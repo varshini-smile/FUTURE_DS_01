@@ -238,6 +238,14 @@ The dashboard provides actionable insights that support data-driven decision-mak
 
 ---
 
+**Task 1 datasets collection
+**
+https://github.com/varshini-smile/FUTURE_DS_01/tree/main/Task1_Business_Sales_Analytics
+
+
+
+---
+
 **Project Outcome**
 
 This project demonstrates the complete data analytics workflow, including data cleaning, transformation, visualization, and business insight generation using Excel and Power BI. The resulting dashboard enables stakeholders to monitor performance, identify opportunities, and make informed strategic decisions.
